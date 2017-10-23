@@ -1,2 +1,2 @@
 # sla
-sla token dev repo
+$sla token dev repo
